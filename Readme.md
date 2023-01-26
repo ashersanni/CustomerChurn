@@ -12,4 +12,6 @@ Churn rate is an efficient indicator for subscription-based companies. Identifyi
 The sample data tracks a fictional telecommunications company, Telco. It’s customer churn data sourced by the IBM Developer Platform, and it’s available <a href="https://raw.githubusercontent.com/carlosfab/dsnp2/master/datasets/WA_Fn-UseC_-Telco-Customer-Churn.csv" target="_blank">here</a>. It includes a target label indicating whether or not the customer left within the last month, and other dependent features that cover demographics, services that each customer has signed up for, and customer account information. It has data for 7043 clients, with 20 features.
 
 ## Exploratory data analysis (EDA)
-The EDA has been conducted in Jupyter Notebook making use of python. The project has primarily made use of the Pandas library for data manipulation and analysis and Matplotlib for visualization and graphical plotting. The notebook and analysis can be found <a href="https://github.com/ashersanni/CustomerChurn/blob/main/Churn%20EDA.ipynb" target="_blank">here</a>.
+The EDA has been conducted in Jupyter Notebook making use of python. The project has primarily made use of the Pandas library for data manipulation and analysis and Matplotlib for visualization and graphical plotting. The notebook and analysis can be found <a href="https://github.com/ashersanni/CustomerChurn/blob/main/Churn%20EDA.ipynb" target="_blank" >here</a>.
+
+<a href="mailto:ashers.456@gmail.com" target=" _blank" class="icon solid fa-envelope"><span class="label">Email</span></a>
