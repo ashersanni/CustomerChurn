@@ -13,5 +13,3 @@ The sample data tracks a fictional telecommunications company, Telco. It’s cus
 
 ## Exploratory data analysis (EDA)
 The EDA has been conducted in Jupyter Notebook making use of python. The project has primarily made use of the Pandas library for data manipulation and analysis and Matplotlib for visualization and graphical plotting. The notebook and analysis can be found <a href="https://github.com/ashersanni/CustomerChurn/blob/main/Churn%20EDA.ipynb" target="_blank" >here</a>.
-
-<a href="mailto:ashers.456@gmail.com" target=" _blank" class="icon solid fa-envelope"><span class="label">Email</span></a>
